@@ -95,7 +95,7 @@
 #include "../NewLikelihood/ParametrizablePhyloTree.h"
 
 #include <Bpp/NewPhyl/PhyloLikelihood_DF.h>
-#include <Bpp/NewPhyl/LikelihoodCalculationCollection.h>
+#include <Bpp/NewPhyl/LikelihoodCalculationSingleProcess.h>
 
 // From bpp-core
 #include <Bpp/Io/BppODiscreteDistributionFormat.h>
